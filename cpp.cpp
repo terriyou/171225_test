@@ -9,5 +9,5 @@ int main(void)
     {   
       cout << b << " * " << a << " = " << b * a << endl;  
     }  
-    cout << "\n\n"; }
+    cout << "\n\n\n"; }
 }
